@@ -17,7 +17,7 @@
 | 10 | 2_7 | 🟢 |
 | 11 | 2_8 | 🟢 |
 | 12 | 2_9 | 🟢 |
-| 13 | 2_10 | 🟢 |
+| 13 | 2_10 | 🟢 | [code](https://github.com/danil2005620/Labs_PSTU_2025/blob/918f7e9d056ea25f4f1e2d701ef0d19c17399745/sem_1/2_10/2_10.cpp) | [scheme](https://github.com/danil2005620/Labs_PSTU_2025/blob/918f7e9d056ea25f4f1e2d701ef0d19c17399745/sem_1/2_10/2_10.cpp) |
 | 14 | 2_11 | 🟢 |
 | 15 | 2_12 | 🟢 |
 | 16 | 2_13 | 🟢 |
