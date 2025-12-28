@@ -5,7 +5,7 @@
 
 | п/п | Наименование | Статус | Ссылка на исходный код | Ссылка на схему |
 | --- | --- | --- | --- | --- |
-| 1 | 1_1 | 🟢 | https://github.com/danil2005620/Labs_PSTU_2025/blob/bd4057777ecc0666b79eb0f12248ac9cd98407ed/sem_1/1_1/1_1.cpp | https://github.com/danil2005620/Labs_PSTU_2025/blob/bd4057777ecc0666b79eb0f12248ac9cd98407ed/sem_1/1_1/1_1.png |
+| 1 | 1_1 | 🟢 | [code] https://github.com/danil2005620/Labs_PSTU_2025/blob/bd4057777ecc0666b79eb0f12248ac9cd98407ed/sem_1/1_1/1_1.cpp | [scheme] https://github.com/danil2005620/Labs_PSTU_2025/blob/bd4057777ecc0666b79eb0f12248ac9cd98407ed/sem_1/1_1/1_1.png |
 | 2 | 1_2 | 🟢 |
 | 3 | 1_3 | 🟢 |
 | 4 | 2_1 | 🟢 |
