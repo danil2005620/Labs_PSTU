@@ -19,7 +19,7 @@
 | 12 | 2_9 | 🟢 |
 | 13 | 2_10 | 🟢 | [code](https://github.com/danil2005620/Labs_PSTU_2025/blob/918f7e9d056ea25f4f1e2d701ef0d19c17399745/sem_1/2_10/2_10.cpp) | [scheme](https://github.com/danil2005620/Labs_PSTU_2025/blob/918f7e9d056ea25f4f1e2d701ef0d19c17399745/sem_1/2_10/2_10.cpp) |
 | 14 | 2_11 | 🟢 | [code](https://github.com/danil2005620/Labs_PSTU_2025/blob/266ac62dd8d95d810b00b90f0721330965ff758a/sem_1/2_11/2_11.cpp) | [scheme](https://github.com/danil2005620/Labs_PSTU_2025/blob/266ac62dd8d95d810b00b90f0721330965ff758a/sem_1/2_11/2_11.png) |
-| 15 | 2_12 | 🟢 |
+| 15 | 2_12 | 🟢 | [code](https://github.com/danil2005620/Labs_PSTU_2025/blob/312a19d7731774a9c7bac4c54a6c27f044e64ad5/sem_1/2_12/2_12.cpp) | [scheme](https://github.com/danil2005620/Labs_PSTU_2025/blob/312a19d7731774a9c7bac4c54a6c27f044e64ad5/sem_1/2_12/2_12.png) |
 | 16 | 2_13 | 🟢 |
 | 17 | 2_14 | 🟢 |
 | 18 | 2_15 | 🟢 |
