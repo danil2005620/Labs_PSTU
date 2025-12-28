@@ -6,10 +6,11 @@ setlocale(LC_ALL, "RU");
     float a, b;
     cin >> a >> b;
     if (b == 0) {
-        cout << "0 Íà 0 íå äåëèòñÿ!!!" << endl;
+        cout << "0 Ð½Ð° 0 Ð´ÐµÐ»Ð¸Ñ‚ÑŒ Ð½ÐµÐ»ÑŒÐ·Ñ!!!" << endl;
     }
     else {
         cout << a / b << endl;
         return 0;
     }
+
 }
