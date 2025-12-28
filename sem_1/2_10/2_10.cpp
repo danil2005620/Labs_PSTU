@@ -5,7 +5,7 @@ int main() {
     int N, firstmax, number;
     cin >> N;
     if (N <= 0) {
-        cout << "Ïîñëåäîâàòåëüíîñòü ïóñòàÿ" << endl;
+        cout << "ÐŸÐ¾ÑÐ»ÐµÐ´Ð¾Ð²Ð°Ñ‚ÐµÐ»ÑŒÐ½Ð¾ÑÑ‚ÑŒ Ð¿ÑƒÑÑ‚Ð°Ñ" << endl;
         return 0;
     }
     cin >> firstmax;
@@ -13,6 +13,7 @@ int main() {
         cin >> number;
         if (number > firstmax) { firstmax = number; }
     }
-    cout << "Ïåðâûé ìàêñèìàëüíûé ýëåìåíò: " << firstmax << endl;
+    cout << "ÐŸÐµÑ€Ð²Ñ‹Ð¹ Ð¼Ð°ÐºÑÐ¸Ð¼Ð°Ð»ÑŒÐ½Ñ‹Ð¹ ÑÐ»ÐµÐ¼ÐµÐ½Ñ‚: " << firstmax << endl;
     return 0;
+
 }
