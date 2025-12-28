@@ -6,7 +6,7 @@ int main() {
     bool plusFirst = false; //flag 1 
     bool minusFirst = false; //flag 2
 
-    cout << "Ââåäèòå êîëè÷åñòâî ýëåìåíòîâ: ";
+    cout << "Ð’Ð²ÐµÐ´Ð¸Ñ‚Ðµ ÐºÐ¾Ð»Ð¸Ñ‡ÐµÑÑ‚Ð²Ð¾ ÑÐ»ÐµÐ¼ÐµÐ½Ñ‚Ð¾Ð²: ";
     cin >> N;
 
     for (int i = 1; i <= N; i++) {
@@ -16,9 +16,10 @@ int main() {
             else if (tmp < 0) { minusFirst = true; }
         }
     }
-    if (plusFirst) { cout << "Ïåðâîå ÷èñëî áûëî ïîëîæèòåëüíûì" << endl; }
-    else if (minusFirst) { cout << "Ïåðâîå ÷èñëî áûëî îòðèöàòåëüíûì" << endl; }
-    else { cout << "Ïîñëåäîâàòåëüíîñòü ñîñòîèò èç íóëåé" << endl; }
+    if (plusFirst) { cout << "ÐŸÐµÑ€Ð²Ð¾Ðµ Ñ‡Ð¸ÑÐ»Ð¾ Ð±Ñ‹Ð»Ð¾ Ð¿Ð¾Ð»Ð¾Ð¶Ð¸Ñ‚ÐµÐ»ÑŒÐ½Ñ‹Ð¼" << endl; }
+    else if (minusFirst) { cout << "ÐŸÐµÑ€Ð²Ð¾Ðµ Ñ‡Ð¸ÑÐ»Ð¾ Ð±Ñ‹Ð»Ð¾ Ð¾Ñ‚Ñ€Ð¸Ñ†Ð°Ñ‚ÐµÐ»ÑŒÐ½Ñ‹Ð¼" << endl; }
+    else { cout << "ÐŸÐ¾ÑÐ»ÐµÐ´Ð¾Ð²Ð°Ñ‚ÐµÐ»ÑŒÐ½Ð¾ÑÑ‚ÑŒ ÑÐ¾ÑÑ‚Ð¾Ð¸Ñ‚ Ð¸Ð· Ð½ÑƒÐ»ÐµÐ¹" << endl; }
     cout << endl;
     return 0;
+
 }
