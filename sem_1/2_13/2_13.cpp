@@ -15,6 +15,7 @@ int main() {
         x = (-b) / (2 * a);
         cout << "x= " << x << endl;
     }
-    else { cout << "Êîğíåé íåò" << endl; }
+    else { cout << "ĞšĞ¾Ñ€Ğ½ĞµĞ¹ Ğ½ĞµÑ‚" << endl; }
     return 0;
+
 }   
