@@ -10,7 +10,7 @@
 | 3 | 1_3 | 🟢 | [code](https://github.com/danil2005620/Labs_PSTU_2025/blob/68ae95e9e4e1ad501160c29d9faa42dceb64976a/sem_1/1_3/1_3.cpp) | [scheme](https://github.com/danil2005620/Labs_PSTU_2025/blob/68ae95e9e4e1ad501160c29d9faa42dceb64976a/sem_1/1_3/1_3.png) |
 | 4 | 2_1 | 🟢 | [code](https://github.com/danil2005620/Labs_PSTU_2025/blob/c61a764028e36334a294fbc884cd99d870635133/sem_1/2_1/2_1.cpp) | [scheme](https://github.com/danil2005620/Labs_PSTU_2025/blob/c61a764028e36334a294fbc884cd99d870635133/sem_1/2_1/2_1.png) |
 | 5 | 2_2 | 🟢 | [code](https://github.com/danil2005620/Labs_PSTU_2025/blob/3980f7e0e7983a461b1eed7f6534189c5a352c61/sem_1/2_2/2_2.cpp) | [scheme](https://github.com/danil2005620/Labs_PSTU_2025/blob/3980f7e0e7983a461b1eed7f6534189c5a352c61/sem_1/2_2/2_2.png) |
-| 6 | 2_3 | 🟢 |
+| 6 | 2_3 | 🟢 | [code](https://github.com/danil2005620/Labs_PSTU_2025/blob/995422890bb8004a86873aaf86ef2db348913b71/sem_1/2_3/2_3.cpp) | [scheme](https://github.com/danil2005620/Labs_PSTU_2025/blob/995422890bb8004a86873aaf86ef2db348913b71/sem_1/2_3/2_3.png) |
 | 7 | 2_4 | 🟢 |
 | 8 | 2_5 | 🟢 |
 | 9 | 2_6 | 🟢 |
