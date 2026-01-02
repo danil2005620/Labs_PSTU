@@ -39,5 +39,5 @@
 | 32 | ptr_4 | 🟢 |
 | 33 | ptr_5 | 🟢 |
 | 34 | eq_half | 🟢 | [code](https://github.com/danil2005620/Labs_PSTU_2025/blob/d34360547db8bcb6b78e8c9db6e54cde0c210d00/sem_1/eq_half/eq_half.cpp) | [scheme](https://github.com/danil2005620/Labs_PSTU_2025/blob/d34360547db8bcb6b78e8c9db6e54cde0c210d00/sem_1/eq_half/eq_half.png) |
-| 35 | eq_newton | 🟢 |
+| 35 | eq_newton | 🟢 | [code](https://github.com/danil2005620/Labs_PSTU_2025/blob/9c40e25b9dfc57bac0f1ae385b45d4bd46ef9493/sem_1/eq_newtone/eq_newtone.cpp) | [scheme](https://github.com/danil2005620/Labs_PSTU_2025/blob/9c40e25b9dfc57bac0f1ae385b45d4bd46ef9493/sem_1/eq_newtone/eq_newtone.png) |
 | 36 | eq_iter | 🟢 |
