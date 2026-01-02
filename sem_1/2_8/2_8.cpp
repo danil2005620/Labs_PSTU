@@ -5,7 +5,7 @@ int main() {
     int N;
     cin >> N;
     if (N <= 2) {
-        cout << "Ââåäèòå ÷èñëî áîëüøå 2." << endl;
+        cout << "Ð’Ð²ÐµÐ´Ð¸Ñ‚Ðµ Ñ‡Ð¸ÑÐ»Ð¾ Ð±Ð¾Ð»ÑŒÑˆÐµ 2." << endl;
     }
     else {
         for (int i = 0; i < N; i++) {
@@ -16,4 +16,5 @@ int main() {
         }
     }
     return 0;
+
 }
