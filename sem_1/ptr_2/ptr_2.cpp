@@ -3,9 +3,9 @@ using namespace std;
 int main() {
     setlocale(LC_ALL, "RU");
     int N, S;
-    cout << "Ââåäèòå ïåðâîå ÷èñëî: ";
+    cout << "Ð’Ð²ÐµÐ´Ð¸Ñ‚Ðµ Ð¿ÐµÑ€Ð²Ð¾Ðµ Ñ‡Ð¸ÑÐ»Ð¾: ";
     cin >> N;
-    cout << "Ââåäèòå âòîðîå ÷èñëî: ";
+    cout << "Ð’Ð²ÐµÐ´Ð¸Ñ‚Ðµ Ð²Ñ‚Ð¾Ñ€Ð¾Ðµ Ñ‡Ð¸ÑÐ»Ð¾: ";
     cin >> S;
     int* ptr1 = &N;
     int* ptr2 = &S;
@@ -15,4 +15,5 @@ int main() {
     cout << N << S << endl;
 
     return 0;
+
 }
